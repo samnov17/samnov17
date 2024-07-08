@@ -3,7 +3,7 @@
 - 👀 I’m interested in Deep learning & machine learning 
 - 🌱 I’m currently learning git :)
 - 📫 How to reach me samnov17@gmail.com
-- 😄 Pronouns: Mr. 
+- 😄 Pronouns: He
 - ⚡ Fun fact: I am still learning..
 
 <!---
